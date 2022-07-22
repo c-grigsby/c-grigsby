@@ -17,7 +17,7 @@
 
 <h3>I'm Chris & I ❤️ code</h3>
 
-- 🔭 I'm currently working on completing my bachelor's degree in computer science
+- 🔭 I'm currently focused on completing my bachelor of science in computer science
 - 👯 I'm looking to collaborate on applications that exhibit awesome behaviors and explore trending technologies
 
 - 🌱 I'm currently learning
@@ -27,8 +27,8 @@
 ```javascript
 const chris = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, HTML, CSS, .NET],
-  tools: [React, Node, Express, NestJS, Flask],
+  code: [Javascript, Python, HTML, CSS, C#],
+  tools: [React, Node, Express, NestJS, Flask, .NET],
   architecture: ["microservices", "layered", "single page applications"],
   techCommunities: {
                       chair: "CCU ACM Student Chapter",
@@ -38,7 +38,8 @@ const chris = {
 }
 ```
 
-<h3>:fire: My Stats</h3>
+<h3>:fire: Stats</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects&langs_count=5&layout=compact&theme=vision-friendly-dark)](https://github.com/c-grigsby/github-readme-stats)
