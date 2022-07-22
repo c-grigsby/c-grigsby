@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e471dy0kszvfafua6aowsuadtzzm2uw8u3yciega1v1&rid=200.webp&ct=g" width="100"/>
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/c-grigsby/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +8,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=orange" alt=""/>
   <h1>
     hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -38,4 +37,8 @@ const chris = {
   currentFocus: "Building robots to ease operations"
 }
 ```
+
+<h3>:fire: My Stats</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000)](https://git.io/streak-stats)
 
