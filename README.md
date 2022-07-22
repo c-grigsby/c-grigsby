@@ -9,20 +9,20 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
     hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-<h2>I'm Chris & I ❤️ code</h2>
+<h3>I'm Chris & I ❤️ code</h3>
 
-- 🔭 I'm currently working on completing my bachelor's degree computer science 
+- 🔭 I'm currently working on completing my bachelor's degree in computer science
 - 👯 I'm looking to collaborate on applications that exhibit awesome behaviors and explore trending technologies
 
 - 🌱 I'm currently learning
   - The Analysis of Algorithms
----
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -33,9 +33,9 @@ const chris = {
   architecture: ["microservices", "layered", "single page applications"],
   techCommunities: {
                       chair: "CCU ACM Student Chapter",
-                      member: "Association for Computing Machinery",
+                      member: "Association for Computing Machinery (ACM)",
                     },
-  currentFocus: "Building robots to ease operations", 
+  currentFocus: "Building robots to ease operations"
 }
 ```
 
