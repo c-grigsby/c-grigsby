@@ -38,8 +38,8 @@ const chris = {
 }
 ```
 
-<h3>:fire: Stats</h3>
+<h3>:fire: My Stats</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects&langs_count=5&layout=compact&theme=vision-friendly-dark)](https://github.com/c-grigsby/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/c-grigsby/github-readme-stats)
