@@ -17,7 +17,7 @@
 
 <h3>I'm Chris & I ❤️ code</h3>
 
-- 🔭 I'm currently focused on completing my bachelor of science in computer science
+- 🔭 I'm currently working on completing my bachelor of science in computer science
 - 👯 I'm looking to collaborate on applications that exhibit awesome behaviors and explore trending technologies
 
 - 🌱 I'm currently learning
