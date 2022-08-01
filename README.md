@@ -19,10 +19,10 @@
 
 - 🔭 I'm currently working on completing my bachelor of science in computer science
 - 👯 I'm looking to collaborate on applications that exhibit awesome behaviors and explore trending technologies
-
 - 🌱 I'm currently learning
   - The Analysis of Algorithms
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ 
+### <img src="https://media0.giphy.com/media/TLPJfIiVJtFn50nFm4/giphy.gif?cid=ecf05e47exbrsk3i97eted5a59o8vtymsy9euelyelcjtckt&rid=giphy.gif&ct=s" width="60"> A little more about me...  
 
 ```javascript
 const chris = {
