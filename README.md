@@ -39,5 +39,6 @@ const chris = {
 ```
 ### <img src="https://media1.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif?cid=ecf05e477fzdw0r3xa65dwcoi96axqywgnsowg4dozxidjln&rid=giphy.gif&ct=s" width="55">&nbsp;GitHub Stats  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/c-grigsby/github-readme-stats)
