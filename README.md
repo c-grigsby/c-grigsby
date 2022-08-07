@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=c-grigsby&style=flat-square&color=orange" alt=""/>
   <h1>
     hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>
   </h1>
 </div>
 
@@ -37,9 +37,7 @@ const chris = {
   currentFocus: "Building robots to ease operations"
 }
 ```
+### <img src="https://media1.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif?cid=ecf05e477fzdw0r3xa65dwcoi96axqywgnsowg4dozxidjln&rid=giphy.gif&ct=s" width="55">&nbsp;GitHub Stats  
 
-<h3>:fire: My Stats</h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/c-grigsby/github-readme-stats)
