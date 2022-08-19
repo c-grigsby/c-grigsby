@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="public/banner.png"/>
+  <img src="public/profile-banner.png"/>
   <div id="for-the-badges"> 
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
     <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg"/>
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-Software developer and senior undergraduate computer science student at Coastal Carolina University, South Carolina
+Software developer and senior undergraduate computer science student at Coastal Carolina University
 
 🌱 I'm currently learning more about
 
