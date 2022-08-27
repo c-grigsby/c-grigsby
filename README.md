@@ -31,13 +31,13 @@ Software developer and senior undergraduate computer science student at Coastal 
 
 ```javascript
 const chris = {
-  pronouns: "he" | "him",
+  pronouns: "he" || "him",
   code: [Javascript, Python, HTML, CSS, C#],
   tools: [React, Node, Express, NestJS, Flask, .NET],
   architecture: ["microservices", "layered", "single page applications"],
   techCommunities: {
                       chair: "CCU ACM Student Chapter",
-                      member: "Association for Computing Machinery (ACM)",
+                      member: "Association for Computing Machinery (ACM)"
                     },
   currentFocus: "Building robots to ease operations"
 }
