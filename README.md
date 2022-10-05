@@ -36,8 +36,8 @@ const chris = {
   tools: [React, Node, Express, NestJS, Flask, .NET],
   architecture: ["microservices", "layered", "single page applications"],
   techCommunities: {
-                      chair: "CCU ACM Student Chapter",
-                      member: "Association for Computing Machinery (ACM)"
+                      member: "Association for Computing Machinery (ACM)", 
+                      member: "Upsilon Pi Epsilon (UPE)"
                     },
   currentFocus: "Building robots to ease operations"
 }
