@@ -32,7 +32,7 @@ Software developer and senior undergraduate computer science student at Coastal 
 ```javascript
 const chris = {
   pronouns: "he" || "him",
-  code: [Javascript, Python, HTML, CSS, C#],
+  code: [JavaScript, Python, HTML, CSS, C#],
   tools: [React, Node, Express, NestJS, Flask, .NET],
   architecture: ["microservices", "layered", "single page applications"],
   techCommunities: {
