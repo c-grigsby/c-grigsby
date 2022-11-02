@@ -18,6 +18,9 @@
   <a href="https://twitter.com/cgrigsby_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://bandcamp.com/christophergrigsby">
+    <img src="https://a11ybadges.com/badge?logo=bandcamp" alt="Bandcamp Badge" height="28px"/>
+  </a>
 </div>
 
 Software developer and senior undergraduate computer science student at Coastal Carolina University
