@@ -18,17 +18,13 @@
   <a href="https://twitter.com/cgrigsby_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://bandcamp.com/christophergrigsby">
-    <img src="https://a11ybadges.com/badge?logo=bandcamp" alt="Bandcamp Badge" height="28px"/>
-  </a>
 </div>
 
 Software developer and senior undergraduate computer science student at Coastal Carolina University
 
 🌱 I'm currently learning more about
 
-- Operating Systems, Information Management, Database Systems Design
-- Software Engineering: Project Requirements, Design Specifications, Testing, Project Management
+- Parallel Systems, Computer Architecture, Social Networking Sites
 
 ### <img src="https://media0.giphy.com/media/TLPJfIiVJtFn50nFm4/giphy.gif?cid=ecf05e47exbrsk3i97eted5a59o8vtymsy9euelyelcjtckt&rid=giphy.gif&ct=s" width="64" alt="Robot, Robot"> A little more about me...  
 
