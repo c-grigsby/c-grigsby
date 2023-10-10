@@ -20,7 +20,7 @@
   </a>
 </div>
 
-Machine Learning Engineer Intern at Celerik with a background in full-stack software development
+Machine Learning Engineer with a background in full-stack software development
 
 🌎 Open to collaborating on progressive and innovative projects
 
