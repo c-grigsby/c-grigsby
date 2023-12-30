@@ -47,5 +47,5 @@ chris = {
 ```
 ### <img src="https://media1.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif?cid=ecf05e477fzdw0r3xa65dwcoi96axqywgnsowg4dozxidjln&rid=giphy.gif&ct=s" width="55" alt="Stat Bars">&nbsp;GitHub Stats  
 
-| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000" /> | <img align="center" src="https://github-readme-stats-rosy-two-38.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects,ml-fintech-case-studies&langs_count=8&layout=compact&theme=vision-friendly-dark"/> |
+| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000" /> | <img align="center" src="https://github-readme-stats-rosy-two-38.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects,ml-fintech-case-studies,kaggle-challenges&langs_count=8&layout=compact&theme=vision-friendly-dark"/> |
 | ------------- | ------------- |
