@@ -35,7 +35,7 @@ chris = {
   pronouns: "he" || "him",
   code: [Python, PySpark, JavaScript, C, SQL, HTML, CSS],
   ml_dl: [Pandas, NumPy, Matplotlib, Seaborn, MLflow, SciPy, Spark_ML, Scikit-Learn, TensorFlow],
-  llm_ops: [OpenAI, Qdrant, ChromaDB, LangChain],
+  llm_ops: [OpenAI, Qdrant, ChromaDB, LangChain, Ollama],
   platforms: [Databricks, Azure],
   frameworks: [React, Express, FastAPI, Flask],
   techCommunities: {
