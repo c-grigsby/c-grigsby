@@ -20,7 +20,7 @@
   </a>
 </div>
 
-Machine Learning Engineer with a background in full-stack software development. Incoming OMSCS graduate student at Georgia Tech 🐝 specializing in machine learning.
+Machine Learning Engineer with a background in full-stack software development. OMSCS graduate student at Georgia Tech 🐝 specializing in machine learning.
 
 🌎 Open to collaborating on progressive and innovative projects
 
