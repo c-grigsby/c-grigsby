@@ -27,7 +27,7 @@ Machine Learning Engineer with a background in full-stack software development. 
 🌱 I'm currently learning more about
 
 - Artificial Intelligence Techniques for Robotics
-- Big Data Analytics for Healthcare
+- Machine Learning for Trading
 
 ### <img src="https://media0.giphy.com/media/TLPJfIiVJtFn50nFm4/giphy.gif?cid=ecf05e47exbrsk3i97eted5a59o8vtymsy9euelyelcjtckt&rid=giphy.gif&ct=s" width="64" alt="Robot, Robot"> A little more about me...  
 
