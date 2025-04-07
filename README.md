@@ -33,15 +33,16 @@ Machine Learning Engineer with a background in full-stack software development. 
 chris = {
   pronouns: "he" || "him",
   code: [Python, PySpark, JavaScript, C, SQL, HTML, CSS],
-  ml_dl: [Pandas, NumPy, Matplotlib, Seaborn, MLflow, SciPy, Spark_ML, Scikit-Learn, TensorFlow],
-  llm_ops: [OpenAI, Qdrant, ChromaDB, LangChain, DeepEval, AI Studio, Ollama],
-  platforms: [Databricks, Azure],
-  frameworks: [FastAPI, Flask, Streamlit, React, Express],
+  ml_dl: [Pandas, NumPy, Matplotlib, Seaborn, MLflow, SciPy, Spark ML, Scikit-Learn, TensorFlow],
+  llm_ops: [LangChain, Pinecone, OpenAI, Sentence Transformers, ChromaDB, DeepEval, Ollama, Qdrant],
+  platforms: [Azure, Databricks, AWS],
+  infra: [Docker, Kubernetes],
+  design: [Lucidchart, Draw.io],
+  web_frameworks: [FastAPI, Flask, Streamlit, React, Express],
   tech_communities: {
     member: [
       "MLOps Community",
-      "Association for Computing Machinery (ACM)",
-      "Upsilon Pi Epsilon (UPE)"
+      "Association for Computing Machinery (ACM)"
     ]
   },
   currentFocus: "The Yeti is a real thing.",
@@ -50,5 +51,5 @@ chris = {
 
 ### <img src="https://media1.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif?cid=ecf05e477fzdw0r3xa65dwcoi96axqywgnsowg4dozxidjln&rid=giphy.gif&ct=s" width="55" alt="Stat Bars">&nbsp;GitHub Stats
 
-| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000" /> | <img align="center" src="https://github-readme-stats-rosy-two-38.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects,ml-fintech-case-studies&langs_count=8&layout=compact&theme=vision-friendly-dark&size_weight=0.55&count_weight=0.45"/> |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000" /> | <img align="center" src="https://github-readme-stats-rosy-two-38.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects,kaggle-challenges,qdrant-tutorials,renting-pricing-predictions&langs_count=8&layout=compact&theme=vision-friendly-dark&size_weight=0.55&count_weight=0.45"/> |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
