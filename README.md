@@ -45,7 +45,7 @@ chris = {
       "Association for Computing Machinery (ACM)"
     ]
   },
-  currentFocus: "The Yeti is a real thing.",
+  currentFocus: "This is the last night in my body.",
 }
 ```
 
