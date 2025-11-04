@@ -23,7 +23,7 @@
   </a>
 </div>
 
-Machine Learning Engineer with a background in full-stack software development. Graduate student at Georgia Tech 🐝 pursuing an MSCS degree with a Machine Learning specialization.
+Machine Learning Engineer with a background in full-stack software development. Pursuing an M.S. in Computer Science at Georgia Tech specializing in Machine Learning.
 
 🌎 Open to collaborating on progressive and innovative projects
 
@@ -49,7 +49,7 @@ chris = {
 }
 ```
 
-### <img src="https://media1.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif?cid=ecf05e477fzdw0r3xa65dwcoi96axqywgnsowg4dozxidjln&rid=giphy.gif&ct=s" width="55" alt="Stat Bars">&nbsp;GitHub Stats
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVuaXRheGFzbjB5anVxOWowN3c0YTJsNXV0aXQydmZ0bmtyZTQ4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2zeiYrwEPsOqTszYQm/giphy.gif" width="55" alt="Stat Bars">&nbsp;GitHub Stats
 
 | <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=c-grigsby&theme=dark&background=000000" /> | <img align="center" src="https://github-readme-stats-rosy-two-38.vercel.app/api/top-langs/?username=c-grigsby&exclude_repo=inventory-management-system,csharp-mini-projects,kaggle-challenges,qdrant-tutorials,renting-pricing-predictions&langs_count=8&layout=compact&theme=vision-friendly-dark&size_weight=0.55&count_weight=0.45"/> |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
